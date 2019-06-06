@@ -1,0 +1,1 @@
+[null,{"name":"defaultrank","temp":"default","event-type":"6","actions":[{"info":"1","find":"Gość","storage":"1","varName":"gosc","name":"Find Role"},{"role":"3","varName":"gosc","info":"0","storage":"1","varName2":"gosc","name":"Store Role Info"},{"member":"2","varName2":"default","role":"3","varName":"gosc","name":"Add Member Role"}]}]
